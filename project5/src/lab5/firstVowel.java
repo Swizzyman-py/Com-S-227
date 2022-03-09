@@ -20,6 +20,6 @@ public class firstVowel {
 				
 		}
 
-		return -1;
+		return -2;
 	}
 }
